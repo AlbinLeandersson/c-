@@ -1,0 +1,10 @@
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\form_ovning\form_ovning\bin\Debug\form_ovning.exe.config
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\form_ovning\form_ovning\bin\Debug\form_ovning.exe
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\form_ovning\form_ovning\bin\Debug\form_ovning.pdb
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\form_ovning\form_ovning\obj\Debug\form_ovning.csprojAssemblyReference.cache
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\form_ovning\form_ovning\obj\Debug\form_ovning.Form1.resources
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\form_ovning\form_ovning\obj\Debug\form_ovning.Properties.Resources.resources
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\form_ovning\form_ovning\obj\Debug\form_ovning.csproj.GenerateResource.cache
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\form_ovning\form_ovning\obj\Debug\form_ovning.csproj.CoreCompileInputs.cache
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\form_ovning\form_ovning\obj\Debug\form_ovning.exe
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\form_ovning\form_ovning\obj\Debug\form_ovning.pdb
