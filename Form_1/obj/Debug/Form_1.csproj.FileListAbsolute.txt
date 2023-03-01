@@ -1,0 +1,10 @@
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\Form_1\Form_1\bin\Debug\Form_1.exe.config
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\Form_1\Form_1\bin\Debug\Form_1.exe
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\Form_1\Form_1\bin\Debug\Form_1.pdb
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\Form_1\Form_1\obj\Debug\Form_1.csprojAssemblyReference.cache
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\Form_1\Form_1\obj\Debug\Form_1.Form1.resources
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\Form_1\Form_1\obj\Debug\Form_1.Properties.Resources.resources
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\Form_1\Form_1\obj\Debug\Form_1.csproj.GenerateResource.cache
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\Form_1\Form_1\obj\Debug\Form_1.csproj.CoreCompileInputs.cache
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\Form_1\Form_1\obj\Debug\Form_1.exe
+C:\Users\albin.leandersson\Desktop\TIATIL\C#\Form_1\Form_1\obj\Debug\Form_1.pdb
